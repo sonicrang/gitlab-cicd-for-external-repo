@@ -1,6 +1,6 @@
 > **参考资料**
 >
-> - [https://docs.gitlab.cn/jh/ci/ci_cd_for_external_repos/#limitations](https://docs.gitlab.cn/jh/ci/ci_cd_for_external_repos/#limitations)
+> - [https://docs.gitlab.cn/jh/ci/ci_cd_for_external_repos](https://docs.gitlab.cn/jh/ci/ci_cd_for_external_repos/)
 >
 > **修订记录**
 >
